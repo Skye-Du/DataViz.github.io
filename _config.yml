@@ -1,9 +1,9 @@
 # Site settings
-title: Website Title
-description: Website short description
+title: Energy and Climate Change
+description: We are going to change our future
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
-url: "https://yk-liu.github.io"  
+url: "https://skye-du.github.io/GreenDots_DataViz.github.io/"  
 
 
 # GitHub User settings
