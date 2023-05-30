@@ -373,3 +373,83 @@ select {
 .continent.south-america:active {
   background-color: rgba(251, 142, 106, 0.1);
 }
+
+.green-energy-table table {
+  table-layout: center;
+  width: 800px;
+  position: center;
+  text-align: left;
+  color: #fff;
+  border: #D3D3D3;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 70%;
+}
+
+.green-energy-table tr {
+  border: 2px solid rgba(241, 241, 241, 0.5);
+  /* border-bottom: 1px solid #ddd; */
+}
+
+.green-energy-table th {
+  border: #D3D3D3;
+  border-bottom: 1px solid rgba(241, 241, 241, 0.5);
+  bottom: 10px;
+  /* position:-webkit-sticky; */
+}
+
+
+.click-tr {
+  color: #fff;
+  font-family: Knowledge,Source Sans Pro,Arial,sans-serif;
+  text-rendering: #a3be8c;
+  border: #D3D3D3;
+}
+
+
+.country-green-energy-all {
+  display: center;
+  position: relative;
+  margin: auto;
+  width: 80%;
+}
+
+#gepie-china {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fff;
+  font-family:'Ysabeau', sans-serif;
+}
+
+#gepie-US {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fff;
+  font-family:'Ysabeau', sans-serif;
+}
+
+#gepie-india {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fff;
+  font-family:'Ysabeau', sans-serif;
+}
+
+#gepie-russia {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fff;
+  font-family:'Ysabeau', sans-serif;
+}
+
+#gepie-japan {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fff;
+  font-family:'Ysabeau', sans-serif;
+}
